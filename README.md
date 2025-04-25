@@ -12,7 +12,7 @@ I’m interested in backend especially .NET Developer, I’m looking for a backe
 - ⚡ Fun fact: ...
 -->
 
-  👩‍💻 ### My [Leetcode](https://leetcode.com/u/Shaymaa_Al-Khader/) <br>
+  👩‍💻 ## My [Leetcode](https://leetcode.com/u/Shaymaa_Al-Khader/) <br>
   🔗 ### My [LinkedIn](https://www.linkedin.com/in/shaymaa-alkhader/) <br>
   📄 ### Know about my experiences [CV](https://docs.google.com/document/d/1QkCMO9n0BEHHwiTb8ttbiBUGexAMvc7j/edit) <br>
   📫 ### How to reach me: shimaalkhader2001@gmail.com <br>
