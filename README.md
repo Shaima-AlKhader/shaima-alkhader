@@ -1,9 +1,7 @@
 ## Hi there 👋 I am Shaymaa Alkhader
-
+A Computer Systems Engineer, recently graduated with **90.3%** average from Palestine Technical University - Kadoorie.
+I’m interested in backend especially .NET Developer, I’m looking for a backend position where I can use my talents and skills to develop current products and making impact.
 <!--
-**Shaima-AlKhader/shaima-alkhader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
@@ -13,9 +11,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  👩‍💻 My Leetcode: https://leetcode.com/u/Shaymaa_Al-Khader/ <br>
-  🔗 My LinkedIn: https://www.linkedin.com/in/shaymaa-alkhader/ <br>
-  📄 Know about my experiences: https://docs.google.com/document/d/1QkCMO9n0BEHHwiTb8ttbiBUGexAMvc7j/edit <br>
-  🌱 I’m currently improving my skills in ASP .NET framework <br>
-  📫 How to reach me: shimaalkhader2001@gmail.com <br>
+
+  👩‍💻 ### My [Leetcode](https://leetcode.com/u/Shaymaa_Al-Khader/) <br>
+  🔗 ### My [LinkedIn](https://www.linkedin.com/in/shaymaa-alkhader/) <br>
+  📄 ### Know about my experiences [CV](https://docs.google.com/document/d/1QkCMO9n0BEHHwiTb8ttbiBUGexAMvc7j/edit) <br>
+  📫 ### How to reach me: shimaalkhader2001@gmail.com <br>
 
